@@ -9,7 +9,7 @@ var articles= {
     article-one: {
         title: 'Article One | Rahul SK',
         heading: 'Article One',
-        date: 'Aug 14, 2017',
+        date: 'Aug 18, 2017',
         content: 
         `<p>
         This is the content for my first article. This is the content for my first article.  This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
